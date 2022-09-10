@@ -1,0 +1,15 @@
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\BARTSolutionsTestingTask.DAL.deps.json
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\BARTSolutionsTestingTask.DAL.dll
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\BARTSolutionsTestingTask.DAL.pdb
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.csproj.AssemblyReference.cache
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.AssemblyInfoInputs.cache
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.AssemblyInfo.cs
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.dll
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.pdb
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\ref\BARTSolutionsTestingTask.DAL.dll
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\BARTSolutionsTestingTask.DAL.runtimeconfig.json
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\BARTSolutionsTestingTask.DAL.runtimeconfig.dev.json
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\obj\Debug\net5.0\BARTSolutionsTestingTask.DAL.genruntimeconfig.cache
+C:\Users\nazik\OneDrive\programinFiles\study\Company\BartTest\BARTSolutionsTestingTask\BARTSolutionsTestingTask.DAL\bin\Debug\net5.0\ref\BARTSolutionsTestingTask.DAL.dll
